@@ -1,0 +1,19 @@
+.parent {
+  color: blue;
+}
+
+span {
+  color: purple;
+}
+
+.cls {
+  color: orange;
+}
+
+#first {
+  color: magenta;
+}
+
+.parent span {
+  color: red;
+}
